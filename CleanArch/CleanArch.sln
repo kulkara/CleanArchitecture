@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CleanArch.Infra.IoC", "Clea
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CleanArch.UI.Mvc", "CleanArch.UI.Mvc", "{7ABE6628-2A38-4898-AEB2-D5A72C941307}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "XXX", "XXX", "{0B8F4B95-3B02-4026-AD6C-6C450662144F}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
